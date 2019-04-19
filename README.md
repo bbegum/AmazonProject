@@ -1,2 +1,1 @@
-# AmazonProject
-AmazonProject
+# group_a_final_project
